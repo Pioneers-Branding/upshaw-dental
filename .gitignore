@@ -1,0 +1,3 @@
+# Content source files
+blog-content-*.txt
+generate-blog.js
